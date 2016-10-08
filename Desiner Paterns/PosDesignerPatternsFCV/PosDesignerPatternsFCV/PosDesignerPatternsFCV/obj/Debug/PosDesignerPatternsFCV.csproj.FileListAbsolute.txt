@@ -1,0 +1,2 @@
+E:\visualstudio_pos\PosDesignerPatternsFCV\PosDesignerPatternsFCV\PosDesignerPatternsFCV\bin\Debug\PosDesignerPatternsFCV.exe.config
+D:\POS_APLICATIVOS_Csharp\Desiner Paterns\PosDesignerPatternsFCV\PosDesignerPatternsFCV\PosDesignerPatternsFCV\bin\Debug\PosDesignerPatternsFCV.exe.config

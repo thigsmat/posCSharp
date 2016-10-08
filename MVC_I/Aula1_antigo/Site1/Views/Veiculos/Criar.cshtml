@@ -1,0 +1,30 @@
+﻿@model Veiculo
+
+<h2>Criar</h2>
+
+@using (Html.BeginForm()){
+ 
+    @Html.ValidationSummary(true)
+    @Html.HiddenFor(model => model.Id)
+    
+    <br />
+    @Html.LabelFor(x => x.Ano)
+    @Html.TextBoxFor(x => x.Ano)
+    @Html.ValidationMessageFor(x => x.Ano)
+    <br />    
+    @Html.LabelFor(x => x.Modelo)
+    @Html.TextBoxFor(x => x.Modelo)
+    @Html.ValidationMessageFor(x => x.Modelo)
+    <br />
+    @Html.LabelFor(x => x.Preco)
+    @Html.TextBoxFor(x => x.Preco)
+    @Html.ValidationMessageFor(x => x.Preco)
+    <br />
+    @Html.DropDownListFor(x=>x.MarcaId,ViewBag.Marcas as SelectList)
+    <br />
+    <input type="submit" value="Gravar" class="btn btn-success" >
+}
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

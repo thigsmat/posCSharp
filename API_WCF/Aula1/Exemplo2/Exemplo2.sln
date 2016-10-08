@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_Aluno", "WS_Aluno\WS_Aluno.csproj", "{418655AE-B972-4D01-B4ED-DAA2C125A387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteWS_Aluno", "ClienteWS_Aluno\ClienteWS_Aluno.csproj", "{BBA6E921-C7C6-406E-9521-662BB15A5816}"
+	ProjectSection(ProjectDependencies) = postProject
+		{418655AE-B972-4D01-B4ED-DAA2C125A387} = {418655AE-B972-4D01-B4ED-DAA2C125A387}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418655AE-B972-4D01-B4ED-DAA2C125A387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418655AE-B972-4D01-B4ED-DAA2C125A387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418655AE-B972-4D01-B4ED-DAA2C125A387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418655AE-B972-4D01-B4ED-DAA2C125A387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA6E921-C7C6-406E-9521-662BB15A5816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA6E921-C7C6-406E-9521-662BB15A5816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA6E921-C7C6-406E-9521-662BB15A5816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA6E921-C7C6-406E-9521-662BB15A5816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\bin\Debug\Servico_Wcf_Funcionario.dll.config
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\bin\Debug\Servico_Wcf_Funcionario.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\bin\Debug\Servico_Wcf_Funcionario.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\obj\Debug\Servico_Wcf_Funcionario.csprojResolveAssemblyReference.cache
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\obj\Debug\Servico_Wcf_Funcionario.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula1\WCF_wizzard\Wizzard_wcf\Servico_Wcf_Funcionario\obj\Debug\Servico_Wcf_Funcionario.pdb

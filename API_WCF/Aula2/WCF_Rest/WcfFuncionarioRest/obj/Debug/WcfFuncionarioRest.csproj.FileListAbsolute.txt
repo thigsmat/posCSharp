@@ -1,0 +1,6 @@
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\bin\Debug\WcfFuncionarioRest.dll.config
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\bin\Debug\WcfFuncionarioRest.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\bin\Debug\WcfFuncionarioRest.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\obj\Debug\WcfFuncionarioRest.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\obj\Debug\WcfFuncionarioRest.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Rest\WcfFuncionarioRest\obj\Debug\WcfFuncionarioRest.csprojResolveAssemblyReference.cache

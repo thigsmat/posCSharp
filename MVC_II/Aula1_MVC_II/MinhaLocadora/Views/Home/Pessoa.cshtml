@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewBag.Title = "Pessoa";
+}
+
+<h2>Pessoa</h2>
+
+<form action="/" method="post">
+    <input name="Id" type="hidden" class="form-control" />
+    <label for="Nome" class="label">Nome</label>
+    <input name="Nome" type="text" class="form-control" />
+    <label for="CPF" class="label">CPF</label>
+    <input name="Cpf" type="text" class="form-control" />
+
+</form>
+
+<input value="Gravar" type="submit" class="btn btn-success" />
+
+
+<br />
+
+<table class="table table-responsive">
+    <tbody></tbody>
+
+</table>
+
+
+@section scripts{
+
+    <script>
+        $(function () {
+            populaTabela();
+            $('input[type=submit]').click(function (event) {
+                event.preventDefault();
+                enviar();
+            });
+        });
+
+        function populaTabela() {
+            $.ajax({
+                url: "/api/pessoa/lista",
+                type: 'GET',
+                dataType: 'json',
+                data: $('form').serialize(),
+                error: function (x, y, z) {
+                    console.log(x, y, z);
+                },
+                success: function (ret) {
+                    var html = '';
+                    for (var i = 0; i < ret.length; i++) {
+                        html += '<tr><td>' + ret[i].Id + '</td>';
+                        html += '<td>' + ret[i].Nome + '</td>';
+                        html += '<td>' + ret[i].Cpf + '</td>';
+                        html += '<td><a href="#"  data-id="'+
+                            ret[i].Id + '" class="btn btn-danger" onClick="excluir(event,this)" >Excluir</a></td></tr>';
+                    }
+
+                    $('table tbody').empty().append(html);
+                }
+            });
+
+        }
+
+        function enviar() {
+            $.ajax({
+                url: "/api/pessoa/novo",
+                type: 'POST',
+                dataType: 'json',
+                data: $('form').serialize(),
+                error: function (x, y, z) {
+                    console.log(x, y, z);
+                },
+                success: function (ret) {
+                    populaTabela();
+                }
+            });
+        }
+
+        function excluir(event, $this) {
+            event.preventDefault();
+            var id = $($this).data('id');
+           if (confirm('Deseja excluir o registro '+id)){
+                $.ajax({
+                    url: "/api/pessoa/excluir/"+id,
+                    type: 'DELETE',
+                    dataType: 'json',
+                    error: function (x, y, z) {
+                        console.log(x, y, z);
+                    },
+                    success: function (ret) {
+                        $($this).parent().parent().remove();
+                    }
+                });
+           }
+        }
+    </script>
+}
+
+
+
+
+

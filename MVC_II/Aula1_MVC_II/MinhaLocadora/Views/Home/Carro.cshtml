@@ -1,0 +1,135 @@
+﻿
+@{
+    ViewBag.Title = "Carro";
+}
+
+<h2>Carro</h2>
+
+<form action="/" method="post" >
+    <label for="Id" class="label">Id</label>
+    <input name="Id" type="text" class="form-control" />
+    <label for="Modelo" class="label">Modelo</label>
+    <input name="Modelo" type="text" class="form-control" />
+    <label for="Marca" class="label">Marca</label>
+    <input name="Marca" type="text" class="form-control" />
+    <label for="Ano" class="label">Ano Fabricação</label>
+    <input name="AnoFabricacao" type="text" class="form-control" />
+    <label for="Pessoa" class="label">Pessoa</label>
+    <input name="PessoaModelId" type="text" class="form-control" />
+    <br />
+    <select name="PessoaModelId" id="PessoaModelId" class="form-control">
+        <option value="0">Selecione uma Pessoa</option>
+    </select>
+    
+
+</form>
+
+<input value="Gravar" type="submit" class="btn btn-success" />
+
+
+<br />
+
+<table class="table table-responsive">
+    <tbody></tbody>
+
+</table>
+
+
+@section scripts{
+
+    <script>
+       
+        
+
+               
+        $(function () {
+            populaTabela();
+            $('input[type=submit]').click(function (event) {
+                event.preventDefault();
+                enviar();
+            });
+            popularCombo();
+        });
+
+
+        function popularCombo() {
+            $.ajax({
+                type: "GET",
+                url: "/api/pessoa/lista",
+                data: { montadora: $("#PessoaModelId").val() },
+                dataType: "json",
+                success: function (json) {
+                    var options = "";
+                    for (var i = 0; i < json.length; i++) {
+                        options += '<option value="' + json[i].Id + '">' + json[i].Nome + '</option>';
+                    };
+                    $("#PessoaModelId").html(options);
+                }
+            });
+        }
+
+        function populaTabela() {
+            $.ajax({
+                url: "/api/carro/lista",
+                type: 'GET',
+                dataType: 'json',
+                data: $('form').serialize(),
+                error: function (x, y, z) {
+                    console.log(x, y, z);
+                },
+                success: function (ret) {
+                    var html = '';
+                    for (var i = 0; i < ret.length; i++) {
+                        html += '<tr><td>' + ret[i].Id + '</td>';
+                        html += '<td>' + ret[i].Modelo + '</td>';
+                        html += '<td>' + ret[i].Marca + '</td>';
+                        html += '<td>' + ret[i].AnoFabricacao + '</td>';
+                        html += '<td><a href="#"  data-id="'+
+                            ret[i].Id + '" class="btn btn-danger" onClick="excluir(event,this)" >Excluir</a></td></tr>';
+                    }
+
+                    $('table tbody').empty().append(html);
+                }
+            });
+
+        }
+
+        function enviar() {
+            $.ajax({
+                url: "/api/carro/novo",
+                type: 'POST',
+                dataType: 'json',
+                data: $('form').serialize(),
+                error: function (x, y, z) {
+                    console.log(x, y, z);
+                },
+                success: function (ret) {
+                    populaTabela();
+                }
+            });
+        }
+
+        function excluir(event, $this) {
+            event.preventDefault();
+            var id = $($this).data('id');
+           if (confirm('Deseja excluir o registro '+id)){
+                $.ajax({
+                    url: "/api/carro/excluir/"+id,
+                    type: 'DELETE',
+                    dataType: 'json',
+                    error: function (x, y, z) {
+                        console.log(x, y, z);
+                    },
+                    success: function (ret) {
+                        $($this).parent().parent().remove();
+                    }
+                });
+           }
+        }
+    </script>
+}
+
+
+
+
+

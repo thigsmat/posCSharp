@@ -1,0 +1,8 @@
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\bin\Debug\SelfHost.exe.config
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\bin\Debug\SelfHost.exe
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\bin\Debug\SelfHost.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\bin\Debug\WcfAtiv_I.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\bin\Debug\WcfAtiv_I.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\obj\Debug\SelfHost.exe
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\SelfHost\obj\Debug\SelfHost.pdb

@@ -1,0 +1,2 @@
+sqllocaldb stop MSSQLLocalDB
+sqllocaldb delete MSSQLLocalDB

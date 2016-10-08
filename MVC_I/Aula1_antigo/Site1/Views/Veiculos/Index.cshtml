@@ -1,0 +1,26 @@
+﻿@model  IEnumerable<Site1.Models.Veiculo>
+
+@{
+    ViewBag.Title = "Index - Lista Veiculos";
+}
+<h2>Index - Lista Veiculos</h2>
+@Html.ActionLink("Novo Veiculo", "Criar", "veiculos", new { @class="btn btn-primary"})
+<br />
+<table class="table table-striped">
+    @foreach (var car in Model)
+    {
+        <tr>
+            <td class="alert-danger">@car.Id</td>
+            <td>@car.Ano</td>
+            <td>@car.Marca.Nome </td>
+            <td>@car.Modelo </td>
+            <td>@car.Marca.Pais</td>
+            <td>@car.Preco.ToString("C")</td>
+            <td><a href="@Url.Action("Criar", new { car.Id })" class = " btn btn-primary" />Editar</td>
+            <td><a href="@Url.Action("Excluir", new { car.Id })" class = "btn btn-primary" />Excluir</td>
+
+        </tr>
+    }
+</table>
+
+

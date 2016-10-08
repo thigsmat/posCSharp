@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3a034772-f94f-4149-af34-b4691003f93f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ServicoFuncionario/Funcionario.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Funcionario.wsdl" MetadataType="Wsdl" ID="eff89b83-5d3b-4d8a-a8cd-8c3638a0e90d" SourceId="1" SourceUrl="http://localhost/ServicoFuncionario/Funcionario.svc?wsdl" />
+    <MetadataFile FileName="Funcionario.disco" MetadataType="Disco" ID="1432c2df-f379-4848-8736-69054e21fb70" SourceId="1" SourceUrl="http://localhost/ServicoFuncionario/Funcionario.svc?disco" />
+    <MetadataFile FileName="Funcionario.xsd" MetadataType="Schema" ID="21f0ead0-398c-4377-9d01-101b8e482e20" SourceId="1" SourceUrl="http://localhost/ServicoFuncionario/Funcionario.svc?xsd=xsd2" />
+    <MetadataFile FileName="Funcionario1.xsd" MetadataType="Schema" ID="c5831d0d-14a7-4829-be4d-a8cf41d85735" SourceId="1" SourceUrl="http://localhost/ServicoFuncionario/Funcionario.svc?xsd=xsd0" />
+    <MetadataFile FileName="Funcionario2.xsd" MetadataType="Schema" ID="7b5538ee-3798-43f3-9293-45c58a185a5a" SourceId="1" SourceUrl="http://localhost/ServicoFuncionario/Funcionario.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

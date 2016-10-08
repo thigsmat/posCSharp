@@ -1,0 +1,154 @@
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\csc.exe
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\vbc.exe
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.dll.config
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.pdb
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Antlr3.Runtime.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\EntityFramework.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Newtonsoft.Json.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Owin.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Net.Http.Formatting.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Helpers.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.Owin.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.WebHost.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Mvc.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Optimization.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Razor.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\WebGrease.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Newtonsoft.Json.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Net.Http.Formatting.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Helpers.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.WebHost.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Mvc.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Optimization.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Razor.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Antlr3.Runtime.pdb
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\EntityFramework.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\bin\System.Web.Http.Owin.xml
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.csprojResolveAssemblyReference.cache
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.dll
+C:\Users\andre\documents\visual studio 2015\Projects\DesenvolvimentoWebModuloII\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.pdb
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\csc.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\System.Collections.Immutable.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\System.Reflection.Metadata.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\vbc.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\VBCSCompiler.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\roslyn\VBCSCompiler.exe.config
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.dll.config
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\DesenvolvimentoWebModuloII.pdb
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Antlr3.Runtime.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\EntityFramework.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\EntityFramework.SqlServer.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Core.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Cookies.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Facebook.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Google.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.OAuth.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Twitter.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Web.Infrastructure.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Newtonsoft.Json.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Net.Http.Formatting.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Helpers.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.WebHost.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Mvc.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Optimization.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Razor.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Deployment.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Razor.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\WebGrease.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Newtonsoft.Json.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Net.Http.Formatting.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Helpers.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.WebHost.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Mvc.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Optimization.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Razor.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Deployment.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.WebPages.Razor.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Antlr3.Runtime.pdb
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\EntityFramework.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\EntityFramework.SqlServer.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Core.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Facebook.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Cookies.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.OAuth.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Google.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.Twitter.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\bin\System.Web.Http.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.csprojResolveAssemblyReference.cache
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\aula_fcv_30-04-2016-master\aula_fcv_30-04-2016-master\DesenvolvimentoWebModuloII\obj\Debug\DesenvolvimentoWebModuloII.pdb

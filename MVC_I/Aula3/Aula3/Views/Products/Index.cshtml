@@ -1,0 +1,32 @@
+﻿@using GridMvc.Html
+@model IEnumerable<Products>
+
+<div >
+    <br />
+    <form class="form-inline">
+        <div class="form-group col-md-6 col-md-offset-3">
+            @Html.TextBox("q","",new {@class= "form-control" })
+           <button class="btn btn-primary">Buscar</button>
+        </div>
+    </form>
+
+
+    @Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(foo => foo.ProductID).Sortable(true).Titled("ID").Filterable(true);
+    columns.Add(foo => foo.ProductName).Sortable(true).Titled("Descrição").Filterable(true);
+    columns.Add(foo => foo.Categories.CategoryName).Sortable(true).Titled("Categoria").Filterable(true);
+    columns.Add(foo => foo.UnitPrice).Sortable(true).Titled("Preço").Filterable(true);
+    columns.Add()
+        .Encoded(false)
+        .Sanitized(false)
+        .SetWidth(30)
+        .RenderValueAs(foo=> @Html.ActionLink("Editar", "Edit", new { id = foo.ProductID }));
+    columns.Add()
+       .Encoded(false)
+       .Sanitized(false)
+       .SetWidth(30)
+       .RenderValueAs(foo => @Html.ActionLink("Excluir", "Delete", new { id = foo.ProductID }));
+}).WithPaging(20)
+
+</div>

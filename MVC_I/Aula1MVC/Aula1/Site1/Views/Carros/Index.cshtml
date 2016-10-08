@@ -1,0 +1,24 @@
+﻿@model  IEnumerable<Veiculo>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th colspan="7">
+            @Html.ActionLink("Novo veículo", "Criar", "Carros", null, new { @class = "btn btn-primary" })
+        </th>
+    </tr>
+    @foreach (var veiculo in Model)
+    {
+        <tr>
+            <td>@veiculo.Id</td>
+            <td>@veiculo.Ano</td>
+            <td>@veiculo.Marca.Pais</td>
+            <td>@veiculo.Marca.Nome</td>
+            <td>@veiculo.Modelo</td>
+            <td>@veiculo.Preco.ToString("C")</td>
+            <td>
+                <a href="@Url.Action("Criar", new { veiculo.Id })" class="btn btn-primary">editar</a>
+                <a href="@Url.Action("Excluir", new { veiculo.Id })" class="btn btn-danger">exluir</a>
+            </td>
+        </tr>
+    }
+</table>

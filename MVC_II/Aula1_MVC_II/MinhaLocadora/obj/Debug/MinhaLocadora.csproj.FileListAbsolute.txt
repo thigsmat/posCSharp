@@ -1,0 +1,184 @@
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\ApplicationInsights.config
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\csc.exe
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\vbc.exe
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\VBCSCompiler.exe
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.dll.config
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Antlr3.Runtime.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.SqlServer.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Web.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.WindowsServer.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.ApplicationInsights.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Google.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Newtonsoft.Json.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Owin.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Net.Http.Formatting.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Helpers.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.Owin.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.WebHost.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Mvc.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Optimization.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Razor.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Deployment.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Razor.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\WebGrease.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Web.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.WindowsServer.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.ApplicationInsights.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Newtonsoft.Json.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Net.Http.Formatting.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Helpers.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.WebHost.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Mvc.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Optimization.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Razor.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Deployment.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Razor.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Antlr3.Runtime.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.SqlServer.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Google.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.Owin.xml
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.dll
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.Migrations.Init.resources
+c:\users\thiago\documents\visual studio 2015\Projects\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.csproj.GenerateResource.Cache
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\ApplicationInsights.config
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\csc.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\System.Collections.Immutable.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\System.Reflection.Metadata.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\vbc.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\VBCSCompiler.exe
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\roslyn\VBCSCompiler.exe.config
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.dll.config
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\MinhaLocadora.pdb
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Antlr3.Runtime.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.SqlServer.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Agent.Intercept.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.DependencyCollector.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Web.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.WindowsServer.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.ApplicationInsights.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Core.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Cookies.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Facebook.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Google.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.OAuth.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Twitter.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Web.Infrastructure.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Newtonsoft.Json.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Net.Http.Formatting.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Helpers.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.Owin.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.WebHost.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Mvc.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Optimization.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Razor.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Deployment.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Razor.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\WebGrease.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.DependencyCollector.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.Web.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AI.WindowsServer.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.ApplicationInsights.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Newtonsoft.Json.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Net.Http.Formatting.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Helpers.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.WebHost.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Mvc.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Optimization.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Razor.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Deployment.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.WebPages.Razor.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Antlr3.Runtime.pdb
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\EntityFramework.SqlServer.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Core.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Facebook.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Cookies.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.OAuth.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Google.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.Twitter.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\bin\System.Web.Http.Owin.xml
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.csprojResolveAssemblyReference.cache
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.Migrations.Init.resources
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.csproj.GenerateResource.Cache
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.dll
+D:\POS_APLICATIVOS_Csharp\MVC_II\Aula1_MVC_II\MinhaLocadora\obj\Debug\MinhaLocadora.pdb

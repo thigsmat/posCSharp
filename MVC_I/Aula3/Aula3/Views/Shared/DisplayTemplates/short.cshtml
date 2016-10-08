@@ -1,0 +1,10 @@
+﻿@model short?
+
+@if (Model>0)
+{
+    <b class="text-success">@Model.Value.ToString("0.00")</b>
+}
+else
+{
+    <b class="text-warning">Não disp</b>
+}

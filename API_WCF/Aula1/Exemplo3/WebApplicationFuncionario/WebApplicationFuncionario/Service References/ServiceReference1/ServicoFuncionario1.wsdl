@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CarregaFuncionario">
+        <s:complexType />
+      </s:element>
+      <s:element name="CarregaFuncionarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CarregaFuncionarioResult" type="tns:ArrayOfFuncionario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfFuncionario">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Funcionario" nillable="true" type="tns:Funcionario" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Funcionario">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nome" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Salario" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="DataCadastro" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SelecionarFuncionario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelecionarFuncionarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelecionarFuncionarioResult" type="tns:Funcionario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CarregaFuncionarioSoapIn">
+    <wsdl:part name="parameters" element="tns:CarregaFuncionario" />
+  </wsdl:message>
+  <wsdl:message name="CarregaFuncionarioSoapOut">
+    <wsdl:part name="parameters" element="tns:CarregaFuncionarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelecionarFuncionarioSoapIn">
+    <wsdl:part name="parameters" element="tns:SelecionarFuncionario" />
+  </wsdl:message>
+  <wsdl:message name="SelecionarFuncionarioSoapOut">
+    <wsdl:part name="parameters" element="tns:SelecionarFuncionarioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServicoFuncionarioSoap">
+    <wsdl:operation name="CarregaFuncionario">
+      <wsdl:input message="tns:CarregaFuncionarioSoapIn" />
+      <wsdl:output message="tns:CarregaFuncionarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelecionarFuncionario">
+      <wsdl:input message="tns:SelecionarFuncionarioSoapIn" />
+      <wsdl:output message="tns:SelecionarFuncionarioSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicoFuncionarioSoap" type="tns:ServicoFuncionarioSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CarregaFuncionario">
+      <soap:operation soapAction="http://tempuri.org/CarregaFuncionario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelecionarFuncionario">
+      <soap:operation soapAction="http://tempuri.org/SelecionarFuncionario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServicoFuncionarioSoap12" type="tns:ServicoFuncionarioSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CarregaFuncionario">
+      <soap12:operation soapAction="http://tempuri.org/CarregaFuncionario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelecionarFuncionario">
+      <soap12:operation soapAction="http://tempuri.org/SelecionarFuncionario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoFuncionario">
+    <wsdl:port name="ServicoFuncionarioSoap" binding="tns:ServicoFuncionarioSoap">
+      <soap:address location="http://localhost/MeuServico/ServicoFuncionario.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServicoFuncionarioSoap12" binding="tns:ServicoFuncionarioSoap12">
+      <soap12:address location="http://localhost/MeuServico/ServicoFuncionario.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

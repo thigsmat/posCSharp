@@ -1,0 +1,5 @@
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\WcfAtiv_I\bin\Debug\WcfAtiv_I.dll.config
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\WcfAtiv_I\bin\Debug\WcfAtiv_I.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\WcfAtiv_I\bin\Debug\WcfAtiv_I.pdb
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\WcfAtiv_I\obj\Debug\WcfAtiv_I.dll
+D:\POS_APLICATIVOS_Csharp\API_WCF\Aula2\WCF_Ativ_I\WcfAtiv_I\obj\Debug\WcfAtiv_I.pdb

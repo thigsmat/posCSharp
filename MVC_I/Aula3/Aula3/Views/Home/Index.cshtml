@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Products>
+
+    <table class="table table-striped">
+        <tr class="text-success" >
+            <td>Id</td>
+            <td>Product</td>
+            <td>Categories</td>
+            <td>Suppliers</td>
+            <td>UnitPrice</td>
+            <td>UnitsInStock</td>
+            <td>UnitsOnOrder</td>
+        </tr>
+
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.ProductID</td>
+                <td>@produto.ProductName</td>
+                <td>@produto.Categories.CategoryName</td>
+                <td>@produto.Suppliers.CompanyName</td>
+                <td>@produto.UnitPrice.ToMoeda()</td>
+                <td>@Html.DisplayFor(x=>produto.UnitsInStock)</td>
+                <td>@Html.DisplayFor(x => produto.UnitsOnOrder,"short")</td>
+            </tr>
+        }
+    </table>

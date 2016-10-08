@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/ServicoFuncionario" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\POS_APLICATIVOS_Csharp\\API_WCF\\Aula2\\Solution_Ativ_II\\WcfServiceFuncionarioPublicacao\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\POS_APLICATIVOS_Csharp\\API_WCF\\Aula2\\Solution_Ativ_II\\WcfServiceFuncionarioPublicacao\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
