@@ -1,0 +1,1 @@
+D:\POS_APLICATIVOS_Csharp\WPhone\TrabalhoWP\AppWpThiagoDaMatta\AppWpThiagoDaMatta\AppWpThiagoDaMatta.csproj;x86
